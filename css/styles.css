@@ -1,0 +1,91 @@
+
+body{
+    font-family: Montserrat bold;
+}
+.navbar{
+      margin-left: 30%;
+}
+.navbar-brand{
+    font-size: larger;
+    color:black;
+}
+.text{
+    text-align: center;
+    margin-top: 150px;
+    color:#fff;
+    height: 100%;
+    
+}
+.btn{
+    background-color: rgb(127, 208, 255);
+    margin-top: 20px;
+}   
+.details{
+    text-align: center; 
+    margin-top: 100px;
+    
+}
+.work{
+    text-align: center; 
+    margin-top: 100px;
+    background-color: #406882;
+    color: #fff;
+}
+.careers{
+    text-align: center; 
+    margin-top: 100px;
+}
+.g-col-6{
+    display: inline-block;
+    padding: 50px;
+    
+}
+.slide {
+    width: 80%;
+    margin-left: 100px;
+}
+.about-img{
+    width: 200px;
+}
+.about{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 20px;
+}
+.social-icon{
+    display: inline-block;
+    margin-left: 45%;
+    margin-top: 20px;
+}
+.top {
+    position: relative;
+    text-align: center;
+    
+ }
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+h1{
+    color: #fff;
+}
+p1{
+    color:#fff;
+}
+#home{
+    width: 100%;
+}
+#footer{
+    background-color:#142F43;
+    color:#fff;
+}
+#about{
+    background-color:#142F43;
+    color: #fff;
+    margin-top: 20px;
+}
+html{
+    scroll-behavior: smooth;
+}
